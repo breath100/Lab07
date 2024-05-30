@@ -1,4 +1,4 @@
-SELECCT shohin_id, shohin_name
+SELECT shohin_id, shohin_name
 	FROM Shohin
 UNION
 SELECCT shohin_id, shohin_name
